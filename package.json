@@ -1,8 +1,8 @@
 {
-  "name": "nextbase-nextjs13-supabase-starter",
+  "name": "nextbase-nextjs-supabase-tailwindcss",
   "version": "1.0.3",
-  "repository": "git@github.com:imbhargav5/nextbase-nextjs13-supabase-starter.git",
-  "author": "Bhargav Ponnapalli <imbhargav5@gmail.com>",
+  "repository": "git@github.com:unknowncodeguy/nextbase-nextjs13-supabase-starter.git",
+  "author": "Unknown Coder <benbarker0311@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
